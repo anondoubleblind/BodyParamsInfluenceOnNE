@@ -10,5 +10,10 @@ Our results confirm the existence of a deep body-brain interrelationship for emb
 
 # Highlight videos
 Active range video.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jC8GNf3C9rg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Friction video.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8u1WRPByheU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Spring f video.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IphhLzvUpNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
