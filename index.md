@@ -47,15 +47,15 @@ The first row displays robots with _d_=0.99, the second row displays robots with
 
 <iframe width="560" height="85" src="https://www.youtube.com/embed/uslrwlKfC8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-COMB
+<iframe width="560" height="85" src="https://www.youtube.com/embed/YsZFsIgHSYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 WORM
 
 ## Friction μₖ
 The first row displays robots with μₖ=25, the second row displays robots with μₖ=0.05.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGc6TKSPWug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="85" src="https://www.youtube.com/embed/pGc6TKSPWug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UmseinyI9NQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="85" src="https://www.youtube.com/embed/UmseinyI9NQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 WORM
