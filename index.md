@@ -26,13 +26,36 @@ Here we show, for each shape, the 10 best robots found by evolution for two oppo
 
 ## Active range ρₐ
 The first row displays robots with ρₐ=0.3, the second row displays robots with ρₐ=0.1.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZQzPAUU81ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="85" src="https://www.youtube.com/embed/ZQzPAUU81ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="85" src="https://www.youtube.com/embed/o4DBTuLQTzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+WORM
 
 ## Spring _f_
 The first row displays robots with _f_=10, the second row displays robots with _f_=0.3.
 
+<iframe width="560" height="85" src="https://www.youtube.com/embed/XAxljj18mDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+COMB
+
+WORM
+
 ## Spring _d_
 The first row displays robots with _d_=0.99, the second row displays robots with _d_=0.1.
 
+<iframe width="560" height="85" src="https://www.youtube.com/embed/uslrwlKfC8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+COMB
+
+WORM
+
 ## Friction μₖ
 The first row displays robots with μₖ=25, the second row displays robots with μₖ=0.05.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGc6TKSPWug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UmseinyI9NQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+WORM
