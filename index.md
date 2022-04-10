@@ -31,16 +31,18 @@ The first row displays robots with ρₐ=0.3, the second row displays robots wit
 
 <iframe width="560" height="85" src="https://www.youtube.com/embed/o4DBTuLQTzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-WORM
+<iframe width="560" height="85" src="https://www.youtube.com/embed/rPLRkjq6akc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Spring _f_
 The first row displays robots with _f_=10, the second row displays robots with _f_=0.3.
 
 <iframe width="560" height="85" src="https://www.youtube.com/embed/XAxljj18mDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-COMB
+<iframe width="560" height="85" src="https://www.youtube.com/embed/BWnaEvYfgSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-WORM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8IiIGKr0K2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Spring _d_
 The first row displays robots with _d_=0.99, the second row displays robots with _d_=0.1.
@@ -49,7 +51,8 @@ The first row displays robots with _d_=0.99, the second row displays robots with
 
 <iframe width="560" height="85" src="https://www.youtube.com/embed/YsZFsIgHSYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-WORM
+<iframe width="560" height="85" src="https://www.youtube.com/embed/Xe24ZF6n_hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Friction μₖ
 The first row displays robots with μₖ=25, the second row displays robots with μₖ=0.05.
@@ -58,4 +61,4 @@ The first row displays robots with μₖ=25, the second row displays robots with
 
 <iframe width="560" height="85" src="https://www.youtube.com/embed/UmseinyI9NQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-WORM
+<iframe width="560" height="85" src="https://www.youtube.com/embed/Fmek5A6FXYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
