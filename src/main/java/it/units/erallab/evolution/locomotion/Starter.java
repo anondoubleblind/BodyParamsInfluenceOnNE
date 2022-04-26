@@ -101,12 +101,12 @@ public class Starter extends Worker {
     int nEvals = i(a("nEvals", "500"));
     int[] seeds = ri(a("seed", "0:1"));
     String experimentName = a("expName", "short");
-    List<String> terrainNames = l(a("terrain", "flat"));//"hilly-1-10-rnd"));
-    List<String> targetShapeNames = l(a("shape", "worm-4x2"));
-    List<String> targetSensorConfigNames = l(a("sensorConfig", "uniform-a-0"));
+    List<String> terrainNames = l(a("terrain", "flat"));
+    List<String> targetShapeNames = l(a("shape", "biped-4x3"));
+    List<String> targetSensorConfigNames = l(a("sensorConfig", "spinedTouch-f-f-0.01"));
     List<String> transformationNames = l(a("transformation", "identity"));
-    List<String> evolverNames = l(a("evolver", "numGA-16-t-f"));
-    List<String> mapperNames = l(a("mapper", "fixedPhases-1.0"));
+    List<String> evolverNames = l(a("evolver", "ES-36-0.35-f"));
+    List<String> mapperNames = l(a("mapper", "fixedCentralized<MLP-1-1-tanh"));
     String lastFileName = a("lastFile", null);
     String bestFileName = a("bestFile", null);
     String allFileName = a("allFile", null);
