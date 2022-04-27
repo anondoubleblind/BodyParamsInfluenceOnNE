@@ -14,12 +14,17 @@ We display three couple of bipeds for which there is a clear behavioral differen
 The first couple has opposed active range values, namely ρₐ=0.1 (little power) and ρₐ=0.3 (higher power). We can observe that the first robot jumps less than the second one.
 <iframe width="560" height="210" src="https://www.youtube.com/embed/jC8GNf3C9rg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<video width="560" height="210" controls src="video/active.mov"></video>
+
 The second couple has opposed spring _f_ values, namely _f_=0.3 (softer material) and _f_=10 (stiffer material). We can note the greater softness of the first robot w.r.t. to second, as it is slower and tends to collapse more.
 <iframe width="560" height="210" src="https://www.youtube.com/embed/IphhLzvUpNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<video width="560" height="210" controls src="video/springf.mov"></video>
 
 The last couple has opposed friction values, namely μₖ=0.05 (little friction, very slippery) and μₖ=25 (higher friction). We can notice that the first robot seems to slip when it touches the ground.
 <iframe width="560" height="210" src="https://www.youtube.com/embed/8u1WRPByheU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<video width="560" height="210" controls src="video/friction.mov"></video>
 
 # Hall of fame videos
 Here we show, for each shape, the 10 best robots found by evolution for two opposed values for each material property.
@@ -27,46 +32,38 @@ Here we show, for each shape, the 10 best robots found by evolution for two oppo
 ## Active range ρₐ
 The first row displays robots with ρₐ=0.3, the second row displays robots with ρₐ=0.1.
 
-<iframe width="560" height="85" src="https://www.youtube.com/embed/ZQzPAUU81ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="560" height="85" controls src="video/biped-active.mkv"></video>
 
-<iframe width="560" height="85" src="https://www.youtube.com/embed/o4DBTuLQTzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="560" height="85" controls src="video/comb-active.mkv"></video>
 
-<iframe width="560" height="85" src="https://www.youtube.com/embed/rPLRkjq6akc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="560" height="85" controls src="video/worm-active.mkv"></video>
 
 
 ## Spring _f_
 The first row displays robots with _f_=10, the second row displays robots with _f_=0.3.
 
-<iframe width="560" height="85" src="https://www.youtube.com/embed/XAxljj18mDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="560" height="85" controls src="video/biped-springf.mkv"></video>
 
-<iframe width="560" height="85" src="https://www.youtube.com/embed/BWnaEvYfgSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="560" height="85" controls src="video/comb-springf.mkv"></video>
 
-<iframe width="560" height="85" src="https://www.youtube.com/embed/8IiIGKr0K2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="560" height="85" controls src="video/worm-springf.mkv"></video>
 
 
 ## Spring _d_
 The first row displays robots with _d_=0.99, the second row displays robots with _d_=0.1.
 
-<iframe width="560" height="85" src="https://www.youtube.com/embed/uslrwlKfC8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="560" height="85" controls src="video/biped-springd.mkv"></video>
 
-<iframe width="560" height="85" src="https://www.youtube.com/embed/YsZFsIgHSYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="560" height="85" controls src="video/comb-springd.mkv"></video>
 
-<iframe width="560" height="85" src="https://www.youtube.com/embed/Xe24ZF6n_hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="560" height="85" controls src="video/worm-springd.mkv"></video>
 
 
 ## Friction μₖ
 The first row displays robots with μₖ=25, the second row displays robots with μₖ=0.05.
 
-<iframe width="560" height="85" src="https://www.youtube.com/embed/pGc6TKSPWug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="560" height="85" controls src="video/biped-friction.mkv"></video>
 
-<iframe width="560" height="85" src="https://www.youtube.com/embed/UmseinyI9NQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="560" height="85" controls src="video/comb-friction.mkv"></video>
 
-<iframe width="560" height="85" src="https://www.youtube.com/embed/Fmek5A6FXYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Prova
-<video width="560" height="85" autoplay muted>
-  <source src="video/biped-active.mkv" type="video/mp4">
-</video>
-
-## Prova 2
-<video width="560" height="85" controls src="video/biped-active.mkv"></video>
+<video width="560" height="85" controls src="video/worm-friction.mkv"></video>
