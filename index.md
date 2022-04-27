@@ -65,5 +65,5 @@ The first row displays robots with μₖ=25, the second row displays robots with
 
 ## Prova
 <video width="560" height="85" autoplay muted>
-  <source src="video/biped-active.mkv" type="video/mkv">
+  <source src="video/biped-active.mkv" type="video/mp4">
 </video>
