@@ -51,3 +51,15 @@ To evaluate VSRs adaptability it is possible to perform a _validation_, i.e., a 
 locomote in different circumstances than those of the optimization. To this extent, there are 3 classes in
 the `evolution.validation` package, which can be used to validate VSRs saved on a CSV file changing physical parameters
 or environmental conditions.
+
+## Bibliography
+
+Medvet, Nadizar, Pigozzi. "On the Impact of Body Material Properties on Neuroevolution for Embodied Agents: the Case of Voxel-based Soft Robots", Workshop on Neuroevolution@Work at the ACM Genetic and Evolutionary Computation Conference (GECCO), 2022
+```
+@inproceedings{medvet2022impact,
+  title={On the Impact of Body Material Properties on Neuroevolution for Embodied Agents: the Case of Voxel-based Soft Robots},
+  author={Medvet, Eric and Nadizar, Giorgia and Pigozzi, Federico},
+  booktitle={Proceedings of the Genetic and Evolutionary Computation Conference Companion},
+  year={2022}
+}
+```
