@@ -12,18 +12,12 @@ Our results confirm the existence of a deep body-brain interrelationship for emb
 We display three couple of bipeds for which there is a clear behavioral difference induced by the different body material properties.
 
 The first couple has opposed active range values, namely ρₐ=0.1 (little power) and ρₐ=0.3 (higher power). We can observe that the first robot jumps less than the second one.
-<iframe width="560" height="210" src="https://www.youtube.com/embed/jC8GNf3C9rg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <video width="560" height="210" controls src="video/active.mov"></video>
 
 The second couple has opposed spring _f_ values, namely _f_=0.3 (softer material) and _f_=10 (stiffer material). We can note the greater softness of the first robot w.r.t. to second, as it is slower and tends to collapse more.
-<iframe width="560" height="210" src="https://www.youtube.com/embed/IphhLzvUpNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <video width="560" height="210" controls src="video/springf.mov"></video>
 
 The last couple has opposed friction values, namely μₖ=0.05 (little friction, very slippery) and μₖ=25 (higher friction). We can notice that the first robot seems to slip when it touches the ground.
-<iframe width="560" height="210" src="https://www.youtube.com/embed/8u1WRPByheU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <video width="560" height="210" controls src="video/friction.mov"></video>
 
 # Hall of fame videos
